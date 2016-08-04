@@ -1,0 +1,15 @@
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Framework.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Framework.pdb
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\obj\Debug\Framework.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\obj\Debug\Framework.pdb
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\FrameworkCore.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\WebDriver.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\FrameworkCore.pdb
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\WebDriver.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Framework.dll.config
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\Framework\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,21 @@
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\FrameworkTests.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\FrameworkTests.pdb
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\Framework.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\FrameworkCore.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\nunit.framework.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\WebDriver.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\FrameworkCore.pdb
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\Framework.pdb
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\nunit.framework.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\WebDriver.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\obj\Debug\FrameworkTests.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\obj\Debug\FrameworkTests.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\obj\Debug\FrameworkTests.pdb
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\FrameworkTests.dll.config
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\test.txt
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkTests\bin\Debug\WebDriver - Task.xlsx

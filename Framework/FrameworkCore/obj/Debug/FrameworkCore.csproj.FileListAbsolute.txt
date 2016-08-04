@@ -1,0 +1,12 @@
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\FrameworkCore.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\FrameworkCore.pdb
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\WebDriver.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\WebDriver.xml
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\obj\Debug\FrameworkCore.csprojResolveAssemblyReference.cache
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\obj\Debug\FrameworkCore.dll
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\obj\Debug\FrameworkCore.pdb
+c:\users\evgeny_zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\FrameworkCore.dll.config
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\WebDriver.Support.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\WebDriver.Support.xml
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evgeny_Zaitsev@epam.com\documents\visual studio 2015\Projects\Framework\FrameworkCore\bin\Debug\Newtonsoft.Json.xml
